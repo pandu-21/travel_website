@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Add more custom styling as needed */
